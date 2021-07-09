@@ -1,0 +1,25 @@
+*{m0
+padding: 0; box-sizing:border-box}
+.menu{
+    height: 50px;
+}
+.menu{
+    font-weight: 600;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    float: left ;
+    margin-left: 100px;
+    line-height: 50px;
+    font-weight: 600;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.menu button{
+    float: left;
+    margin-left: 40px;
+}
